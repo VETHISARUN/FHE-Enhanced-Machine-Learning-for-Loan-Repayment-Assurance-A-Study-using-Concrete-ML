@@ -2,7 +2,7 @@
 # FHE-Enhanced Machine Learning for Loan Repayment Assurance using  Concrete ML
 
 This repository implements a secure, privacy-preserving machine learning system that uses Fully Homomorphic Encryption (FHE) to assess loan repayment capability. The model analyzes financial data to predict potential savings, which is then compared against monthly loan installments to determine repayment feasibility—all while maintaining complete data privacy through encryption.
-Key Innovations
+
 
 Privacy-First Financial Analysis: Financial data remains encrypted throughout the entire prediction pipeline
 Loan Repayment Assessment: Evaluates loan viability by comparing predicted potential savings to required monthly installments
